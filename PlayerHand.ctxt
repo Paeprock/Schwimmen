@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlayerHand
+comment1.params=pPlayerKarte\ pPlayerValue
+comment1.target=PlayerHand(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ GibPlayerKarte()
+comment3.params=
+comment3.target=int\ GibPlayerValue()
+numComments=4
